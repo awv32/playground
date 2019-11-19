@@ -1,1 +1,61 @@
+<?xml-stylesheet href="game.css"?>
+<api>
+<section>
+	<heading>
+	Name of Game:
+	</heading>
+		<name>
+		Monster Hunter World
+		</name>
+</section>
+<section>
+	<heading>
+	Description
+	</heading>
+		<content>
+		Monster Hunter World is a game about hunting various monsters you encounter in their native locales.
+		</content>
+</section>
+<section>
+	<heading>
+	Genre/Tags
+	</heading>
+		<property>
+		Action, RPG, Adventure, Multiplayer
+		</property>
 
+
+</section>
+<section>
+	<heading>
+	Weapons
+	</heading>
+		<property>
+			<name> Long Sword </name>
+			<type> Offense </type>
+		</property>
+		<property>
+			<name> Lance </name>
+			<type> Defense </type>
+		</property>
+		<property>
+			<name> Hunting Horn </name>
+			<type> Support </type>
+		</property>
+</section>
+<section>
+	<heading>
+	Monsters
+	</heading>
+		<property>
+			<name> Rathalos </name>
+			<type> Dragon/Fire </type>
+		</property>
+		<property>
+			<name> Great Jagras </name>
+			<type> Lizard/Normal </type>
+		</property><property>
+			<name> Teostra </name>
+			<type> Lion/Dragon/Fire </type>
+		</property>
+</section>
